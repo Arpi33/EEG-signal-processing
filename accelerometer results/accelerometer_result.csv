@@ -1,0 +1,6 @@
+Classifier,train_acc,Accuracy,Precision,Recall,F1-score
+Random Forest,0.57,0.53,0.54,0.53,0.531
+AdaBoost,0.478,0.464,0.491,0.464,0.468
+Gradient Boosting,0.72,0.531,0.541,0.531,0.535
+Decision Tree,0.559,0.509,0.532,0.509,0.516
+XGBoost,0.633,0.517,0.536,0.517,0.522

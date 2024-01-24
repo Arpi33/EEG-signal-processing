@@ -1,0 +1,8 @@
+pandas version==2.1.1
+numpy version==1.23.5
+matplotlib version==3.5.2
+scipy version==1.9.1
+sklearn version==1.0.2
+xgboost version==1.7.4
+seaborn version==0.11.2
+imblearn version==0.10.1
